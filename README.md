@@ -22,7 +22,7 @@ Hi, I'm Nandini 👋
 
 📫 Connect With Me
 
-- LinkedIn: [Add your LinkedIn link here]
+- LinkedIn: [https://www.linkedin.com/in/ulli-nandini-b8362037a]
 - GitHub: You're already here 😊
 
 ✨ Learning. Building. Improving.
